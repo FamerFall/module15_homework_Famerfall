@@ -1,0 +1,21 @@
+.btn {
+    background-color: antiquewhite;
+}
+
+.btn:hover {
+    background-color: rgb(184, 184, 184);
+}
+
+.btn:active {
+    background-color: rgb(43, 43, 43);
+}
+
+.btn_icon {
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+}
+
+.invisible {
+    display: none;
+}
